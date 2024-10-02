@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @21javivi, but you can call me Javi
+- 👋 Hi, I’m @javierg2032, but you can call me Javi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java, sql, html and css
 <!--- - 💞️ I’m looking to collaborate on ...
